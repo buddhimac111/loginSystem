@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
     "@next/font": "^13.4.5",
     "@types/node": "20.3.1",
     "@types/react": "18.2.12",
@@ -19,6 +20,8 @@
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.5",
     "js": "^0.1.0",
+    "mdb-react-ui-kit": "^6.1.0",
+    "mongodb": "^5.6.0",
     "mongoose": "^7.2.4",
     "next": "13.4.5",
     "next-auth": "^4.22.1",
